@@ -1,0 +1,60 @@
+:root {
+	--stundenplan-width: 80vmin;
+	--stundenplan-height: 80vh;
+
+	font-size: 82%;
+}
+
+
+.weiss {
+	color: white;
+}
+
+
+table.stundenplan {
+	width: var(--stundenplan-width);
+	margin-left: calc((100vw - var(--stundenplan-width)) / 2);
+	margin-right: calc((100vw - var(--stundenplan-width)) / 2);
+
+	height: var(--stundenplan-height);
+	margin-top: 2vh;
+
+	& th {
+		background-color: #7e7e7e;
+	}
+
+	& th, td {
+		width: calc(var(--stundenplan-width) / 6);
+
+		padding: calc(1em / 2);
+
+		border: 1px solid #ddd;
+		border-radius: calc(1em / 3);
+	}
+
+	& td {
+		text-align: left;
+
+		height: 4em;
+
+		& p {
+			line-height: 0.2em;
+		}
+		
+		&.stunde {
+			&.ungerade {
+				background-color: #cfcfcf;
+			}
+
+			&.gerade {
+				background-color: #afafaf;
+			}
+		}
+
+		&.mittagspause {
+			text-align: center;
+			vertical-align: middle;
+		}
+	}
+}
+
