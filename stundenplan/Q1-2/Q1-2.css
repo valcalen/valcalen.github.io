@@ -16,7 +16,6 @@ table.stundenplan {
 	margin-left: calc((100vw - var(--stundenplan-width)) / 2);
 	margin-right: calc((100vw - var(--stundenplan-width)) / 2);
 
-	height: var(--stundenplan-height);
 	margin-top: 2vh;
 
 	& th {
