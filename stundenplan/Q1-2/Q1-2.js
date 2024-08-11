@@ -1,58 +1,64 @@
+const
+	LK1 = "#e76f51", LK2 = "#f9d46a", LK3 = "#f4a261",
+	GK1 = "#3aad9f", GK2 = "#8ab17d",
+	SF = "#e0d29f", DFLT = "#eee"
+
+
 let faecher = {
 	"mathe": {
 		"name":		"Mathematik",
 		"kurs":		"MA2 (Ab)",
-		"farbe":	"#e76f51",
+		"farbe":	LK1,
 	},
 	"info": {
 		"name":		"Informatik",
 		"kurs":		"IF1 (Sas)",
-		"farbe":	"#f9d46a",
+		"farbe":	LK2,
 	},
 	"physik": {
 		"name":		"Physik",
 		"kurs":		"PH1 (Bu)",
-		"farbe":	"#f4a261",
+		"farbe":	LK3,
 	},
 	"englisch": {
 		"name":		"Englisch",
 		"kurs":		"en4 (Mul)",
-		"farbe":	"#3aad9f",
+		"farbe":	GK1,
 	},
 	"religion": {
 		"name":		"Religion",
 		"kurs":		"re2 (Nöt)",
-		"farbe":	"#8ab17d",
+		"farbe":	GK2,
 	},
 	"deutsch": {
 		"name":		"Deutsch",
 		"kurs":		"de3 (Bl)",
-		"farbe":	"#eee",
+		"farbe":	DFLT,
 	},
 	"geschichte": {
 		"name":		"Geschichte",
 		"kurs":		"ge3 (Slz)",
-		"farbe":	"#eee",
+		"farbe":	DFLT,
 	},
 	"powi": {
 		"name":		"PoWi",
 		"kurs":		"pw2 (Lau)",
-		"farbe":	"#eee",
+		"farbe":	DFLT,
 	},
 	"kunst": {
 		"name":		"Kunst",
 		"kurs":		"",
-		"farbe":	"#eee",
+		"farbe":	DFLT,
 	},
 	"sport": {
-		"name":		"Sport (???)",
-		"kurs":		"",
-		"farbe":	"#fff",
+		"name":		"Sport",
+		"kurs":		"sp2 (Hl)",
+		"farbe":	DFLT,
 	},
 	"seminarfach": {
 		"name":		"Seminarfach",
-		"kurs":		"",
-		"farbe":	"#e0d29f",
+		"kurs":		"sf4 (Smk)",
+		"farbe":	SF,
 	},
 	"mittagspause": {
 		"name":		"Mittagspause",

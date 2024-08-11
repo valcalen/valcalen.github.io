@@ -40,7 +40,7 @@ table.stundenplan {
 		& p {
 			line-height: 0.2em;
 		}
-		
+
 		&.stunde {
 			&.ungerade {
 				background-color: #cfcfcf;
