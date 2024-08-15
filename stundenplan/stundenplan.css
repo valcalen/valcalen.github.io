@@ -6,12 +6,17 @@
 }
 
 
+body {
+	margin: 0;
+}
+
+
 .weiss {
 	color: white;
 }
 
 
-table.stundenplan {
+#stundenplan {
 	width: var(--stundenplan-width);
 	height: var(--stundenplan-height);
 
@@ -29,7 +34,7 @@ table.stundenplan {
 		padding: 0.5em;
 
 		border: 1px solid #ddd;
-		border-radius: calc(1em / 3);
+		border-radius: 0.3em;
 	}
 
 	& td {
@@ -57,4 +62,3 @@ table.stundenplan {
 		}
 	}
 }
-

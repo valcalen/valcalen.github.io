@@ -1,0 +1,74 @@
+:root {
+	--auswahl-width: 80vmin;
+}
+
+
+body {
+	margin: 0;
+}
+
+
+#auswahl-container {
+	width: var(--auswahl-width);
+
+	margin-top: 5vh;
+	margin-left: calc((100vw - var(--auswahl-width)) / 2);
+	margin-right: calc((100vw - var(--auswahl-width)) / 2);
+}
+
+
+fieldset {
+	margin: 0.5em;
+
+	border: 1px solid black;
+	border-radius: 0.3em;
+
+
+	& legend {
+		font-size: 150%;
+	}
+	
+	& select {
+		width: 100%;
+		margin: 1px;
+	}
+	      
+}
+
+
+.container {
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: center;
+
+	width: 100%;
+
+
+	& > * {
+		width: 100%;
+	}
+}
+
+.fach-container {
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: center;
+
+
+	& input {
+		margin: 1px;
+	}
+}
+
+.button-container {
+	display: flex;
+	flex-flow: row-reverse nowrap;
+	justify-content: space-between;
+
+	margin: 1em 0.5em;
+
+
+	& input, button {
+		padding: 0.5em;
+	}
+}

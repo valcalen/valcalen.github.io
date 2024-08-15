@@ -1,0 +1,1705 @@
+{
+  "ge2":{
+    "lehrkraft":"(Tr)",
+    "stunden":{
+      "mo":[
+        "A012",
+        "A012"
+      ],
+      "di":[
+        
+      ],
+      "mi":[
+        
+      ],
+      "do":[
+        
+      ],
+      "fr":[
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "A012"
+      ]
+    }
+  },
+  "re2":{
+    "lehrkraft":"(Nöt)",
+    "stunden":{
+      "mo":[
+        "MU1",
+        "MU1"
+      ],
+      "di":[
+        
+      ],
+      "mi":[
+        
+      ],
+      "do":[
+        
+      ],
+      "fr":[
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "B002"
+      ]
+    }
+  },
+  "rk1":{
+    "lehrkraft":"(SaB)",
+    "stunden":{
+      "mo":[
+        "A209",
+        "A209"
+      ],
+      "di":[
+        
+      ],
+      "mi":[
+        
+      ],
+      "do":[
+        
+      ],
+      "fr":[
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "A007"
+      ]
+    }
+  },
+  "wn1":{
+    "lehrkraft":"(Pg)",
+    "stunden":{
+      "mo":[
+        "A207",
+        "A207"
+      ],
+      "di":[
+        
+      ],
+      "mi":[
+        
+      ],
+      "do":[
+        
+      ],
+      "fr":[
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "A011"
+      ]
+    }
+  },
+  "snn1":{
+    "lehrkraft":"(Scu)",
+    "stunden":{
+      "mo":[
+        
+      ],
+      "di":[
+        "C007",
+        "C007"
+      ],
+      "mi":[
+        
+      ],
+      "do":[
+        null,
+        null,
+        null,
+        null,
+        "PO-WI",
+        "PO-WI"
+      ],
+      "fr":[
+        
+      ]
+    }
+  },
+  "bi5":{
+    "lehrkraft":"(Si)",
+    "stunden":{
+      "mo":[
+        
+      ],
+      "di":[
+        
+      ],
+      "mi":[
+        "Bi1",
+        "Bi1"
+      ],
+      "do":[
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Bi1"
+      ],
+      "fr":[
+        
+      ]
+    }
+  },
+  "ch2":{
+    "lehrkraft":"(Gr)",
+    "stunden":{
+      "mo":[
+        
+      ],
+      "di":[
+        
+      ],
+      "mi":[
+        "Ch1",
+        "Ch1"
+      ],
+      "do":[
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Ch1"
+      ],
+      "fr":[
+        
+      ]
+    }
+  },
+  "ds1":{
+    "lehrkraft":"(Gt)",
+    "stunden":{
+      "mo":[
+        
+      ],
+      "di":[
+        
+      ],
+      "mi":[
+        "DS1",
+        "DS1"
+      ],
+      "do":[
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "DS1"
+      ],
+      "fr":[
+        
+      ]
+    }
+  },
+  "en5":{
+    "lehrkraft":"(Bar)",
+    "stunden":{
+      "mo":[
+        
+      ],
+      "di":[
+        
+      ],
+      "mi":[
+        "A211",
+        "A211"
+      ],
+      "do":[
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "A211"
+      ],
+      "fr":[
+        
+      ]
+    }
+  },
+  "pw3":{
+    "lehrkraft":"(Sd)",
+    "stunden":{
+      "mo":[
+        
+      ],
+      "di":[
+        
+      ],
+      "mi":[
+        "A008",
+        "A008"
+      ],
+      "do":[
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "A008"
+      ],
+      "fr":[
+        
+      ]
+    }
+  },
+  "BI3":{
+    "lehrkraft":"(Wac)",
+    "stunden":{
+      "mo":[
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Bi1"
+      ],
+      "di":[
+        null,
+        null,
+        null,
+        null,
+        "Bi1",
+        "Bi1"
+      ],
+      "mi":[
+        
+      ],
+      "do":[
+        "Bi1",
+        "Bi1"
+      ],
+      "fr":[
+        
+      ]
+    }
+  },
+  "CH1":{
+    "lehrkraft":"(Wo)",
+    "stunden":{
+      "mo":[
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Ch1"
+      ],
+      "di":[
+        null,
+        null,
+        null,
+        null,
+        "Ch1",
+        "Ch1"
+      ],
+      "mi":[
+        
+      ],
+      "do":[
+        "Ch2",
+        "Ch2"
+      ],
+      "fr":[
+        
+      ]
+    }
+  },
+  "EN3":{
+    "lehrkraft":"(Ebe)",
+    "stunden":{
+      "mo":[
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "A006"
+      ],
+      "di":[
+        null,
+        null,
+        null,
+        null,
+        "A006",
+        "A006"
+      ],
+      "mi":[
+        
+      ],
+      "do":[
+        "A006",
+        "A006"
+      ],
+      "fr":[
+        
+      ]
+    }
+  },
+  "GE1":{
+    "lehrkraft":"(Bor)",
+    "stunden":{
+      "mo":[
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "A211"
+      ],
+      "di":[
+        null,
+        null,
+        null,
+        null,
+        "A211",
+        "A211"
+      ],
+      "mi":[
+        
+      ],
+      "do":[
+        "A211",
+        "A211"
+      ],
+      "fr":[
+        
+      ]
+    }
+  },
+  "KU1":{
+    "lehrkraft":"(Ils)",
+    "stunden":{
+      "mo":[
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "KU2"
+      ],
+      "di":[
+        null,
+        null,
+        null,
+        null,
+        "KU2",
+        "KU2"
+      ],
+      "mi":[
+        
+      ],
+      "do":[
+        "KU2",
+        "KU2"
+      ],
+      "fr":[
+        
+      ]
+    }
+  },
+  "MU1":{
+    "lehrkraft":"(EIF)",
+    "stunden":{
+      "mo":[
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NO 1"
+      ],
+      "di":[
+        null,
+        null,
+        null,
+        null,
+        "NO 1",
+        "NO 1"
+      ],
+      "mi":[
+        
+      ],
+      "do":[
+        "NO 1",
+        "NO 1"
+      ],
+      "fr":[
+        
+      ]
+    }
+  },
+  "PH1":{
+    "lehrkraft":"(Bu)",
+    "stunden":{
+      "mo":[
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Ph1"
+      ],
+      "di":[
+        null,
+        null,
+        null,
+        null,
+        "Ph1",
+        "Ph1"
+      ],
+      "mi":[
+        
+      ],
+      "do":[
+        "Ph1",
+        "Ph1"
+      ],
+      "fr":[
+        
+      ]
+    }
+  },
+  "SPP2":{
+    "lehrkraft":"(BRG)",
+    "stunden":{
+      "mo":[
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NOG",
+        "NOG"
+      ],
+      "di":[
+        null,
+        null,
+        null,
+        null,
+        "NOG",
+        "NOG"
+      ],
+      "mi":[
+        
+      ],
+      "do":[
+        "NOG",
+        "NOG"
+      ],
+      "fr":[
+        
+      ]
+    }
+  },
+  "BI1":{
+    "lehrkraft":"(Dem)",
+    "stunden":{
+      "mo":[
+        null,
+        null,
+        "Bi1",
+        "Bi1"
+      ],
+      "di":[
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Bi1"
+      ],
+      "mi":[
+        
+      ],
+      "do":[
+        
+      ],
+      "fr":[
+        "Bi1",
+        "Bi1"
+      ]
+    }
+  },
+  "DE1":{
+    "lehrkraft":"(Gt)",
+    "stunden":{
+      "mo":[
+        null,
+        null,
+        "A006",
+        "A006"
+      ],
+      "di":[
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "A006"
+      ],
+      "mi":[
+        
+      ],
+      "do":[
+        
+      ],
+      "fr":[
+        "A006",
+        "A006"
+      ]
+    }
+  },
+  "EN1":{
+    "lehrkraft":"(Ho)",
+    "stunden":{
+      "mo":[
+        null,
+        null,
+        "A212",
+        "A212"
+      ],
+      "di":[
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "A212"
+      ],
+      "mi":[
+        
+      ],
+      "do":[
+        
+      ],
+      "fr":[
+        "A212",
+        "A212"
+      ]
+    }
+  },
+  "IF1":{
+    "lehrkraft":"(Sas)",
+    "stunden":{
+      "mo":[
+        null,
+        null,
+        "Multi",
+        "Multi"
+      ],
+      "di":[
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Multi"
+      ],
+      "mi":[
+        
+      ],
+      "do":[
+        
+      ],
+      "fr":[
+        "Multi",
+        "Multi"
+      ]
+    }
+  },
+  "MA1":{
+    "lehrkraft":"(Wf)",
+    "stunden":{
+      "mo":[
+        null,
+        null,
+        "A207",
+        "A207"
+      ],
+      "di":[
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "A207"
+      ],
+      "mi":[
+        
+      ],
+      "do":[
+        
+      ],
+      "fr":[
+        "A207",
+        "A207"
+      ]
+    }
+  },
+  "SPP1":{
+    "lehrkraft":"(Ri)",
+    "stunden":{
+      "mo":[
+        null,
+        null,
+        "A206",
+        "A206"
+      ],
+      "di":[
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "SpoH",
+        "SpoH"
+      ],
+      "mi":[
+        
+      ],
+      "do":[
+        
+      ],
+      "fr":[
+        "SpoH",
+        "SpoH"
+      ]
+    }
+  },
+  "de3":{
+    "lehrkraft":"(Bl)",
+    "stunden":{
+      "mo":[
+        
+      ],
+      "di":[
+        null,
+        "A006"
+      ],
+      "mi":[
+        
+      ],
+      "do":[
+        null,
+        null,
+        null,
+        null,
+        "A006",
+        "A006"
+      ],
+      "fr":[
+        
+      ]
+    }
+  },
+  "fr1":{
+    "lehrkraft":"(Age)",
+    "stunden":{
+      "mo":[
+        
+      ],
+      "di":[
+        null,
+        "PO-WI"
+      ],
+      "mi":[
+        
+      ],
+      "do":[
+        null,
+        null,
+        null,
+        null,
+        "A107",
+        "A107"
+      ],
+      "fr":[
+        
+      ]
+    }
+  },
+  "la1":{
+    "lehrkraft":"(Me)",
+    "stunden":{
+      "mo":[
+        
+      ],
+      "di":[
+        null,
+        "A210"
+      ],
+      "mi":[
+        
+      ],
+      "do":[
+        null,
+        null,
+        null,
+        null,
+        "A210",
+        "A210"
+      ],
+      "fr":[
+        
+      ]
+    }
+  },
+  "ma3":{
+    "lehrkraft":"(Gd)",
+    "stunden":{
+      "mo":[
+        
+      ],
+      "di":[
+        null,
+        "B002"
+      ],
+      "mi":[
+        
+      ],
+      "do":[
+        null,
+        null,
+        null,
+        null,
+        "C008",
+        "C008"
+      ],
+      "fr":[
+        
+      ]
+    }
+  },
+  "sn1":{
+    "lehrkraft":"(Ma)",
+    "stunden":{
+      "mo":[
+        
+      ],
+      "di":[
+        null,
+        "A111"
+      ],
+      "mi":[
+        
+      ],
+      "do":[
+        null,
+        null,
+        null,
+        null,
+        "A112",
+        "A112"
+      ],
+      "fr":[
+        
+      ]
+    }
+  },
+  "bi4":{
+    "lehrkraft":"(Rck)",
+    "stunden":{
+      "mo":[
+        null,
+        null,
+        null,
+        null,
+        "Bi1",
+        "Bi1"
+      ],
+      "di":[
+        null,
+        null,
+        "Bi1"
+      ],
+      "mi":[
+        
+      ],
+      "do":[
+        
+      ],
+      "fr":[
+        
+      ]
+    }
+  },
+  "de5":{
+    "lehrkraft":"(Pi)",
+    "stunden":{
+      "mo":[
+        null,
+        null,
+        null,
+        null,
+        "A008",
+        "A008"
+      ],
+      "di":[
+        null,
+        null,
+        "A206"
+      ],
+      "mi":[
+        
+      ],
+      "do":[
+        
+      ],
+      "fr":[
+        
+      ]
+    }
+  },
+  "ge3":{
+    "lehrkraft":"(Slz)",
+    "stunden":{
+      "mo":[
+        null,
+        null,
+        null,
+        null,
+        "C006",
+        "C006"
+      ],
+      "di":[
+        null,
+        null,
+        "C006"
+      ],
+      "mi":[
+        
+      ],
+      "do":[
+        
+      ],
+      "fr":[
+        
+      ]
+    }
+  },
+  "ma4":{
+    "lehrkraft":"(Oh)",
+    "stunden":{
+      "mo":[
+        null,
+        null,
+        null,
+        null,
+        "A211",
+        "A211"
+      ],
+      "di":[
+        null,
+        null,
+        "A211"
+      ],
+      "mi":[
+        
+      ],
+      "do":[
+        
+      ],
+      "fr":[
+        
+      ]
+    }
+  },
+  "ds2":{
+    "lehrkraft":"(Pi)",
+    "stunden":{
+      "mo":[
+        
+      ],
+      "di":[
+        null,
+        null,
+        null,
+        "DS2"
+      ],
+      "mi":[
+        null,
+        null,
+        "DS2",
+        "DS2"
+      ],
+      "do":[
+        
+      ],
+      "fr":[
+        
+      ]
+    }
+  },
+  "ek2":{
+    "lehrkraft":"(Kt)",
+    "stunden":{
+      "mo":[
+        
+      ],
+      "di":[
+        null,
+        null,
+        null,
+        "EK"
+      ],
+      "mi":[
+        null,
+        null,
+        "EK",
+        "EK"
+      ],
+      "do":[
+        
+      ],
+      "fr":[
+        
+      ]
+    }
+  },
+  "en4":{
+    "lehrkraft":"(Mul)",
+    "stunden":{
+      "mo":[
+        
+      ],
+      "di":[
+        null,
+        null,
+        null,
+        "C008"
+      ],
+      "mi":[
+        null,
+        null,
+        "A212",
+        "A212"
+      ],
+      "do":[
+        
+      ],
+      "fr":[
+        
+      ]
+    }
+  },
+  "if2":{
+    "lehrkraft":"(Sas)",
+    "stunden":{
+      "mo":[
+        
+      ],
+      "di":[
+        null,
+        null,
+        null,
+        "Multi"
+      ],
+      "mi":[
+        null,
+        null,
+        "Multi",
+        "Multi"
+      ],
+      "do":[
+        
+      ],
+      "fr":[
+        
+      ]
+    }
+  },
+  "ma5":{
+    "lehrkraft":"(Gr)",
+    "stunden":{
+      "mo":[
+        
+      ],
+      "di":[
+        null,
+        null,
+        null,
+        "A206"
+      ],
+      "mi":[
+        null,
+        null,
+        "PO-WI",
+        "PO-WI"
+      ],
+      "do":[
+        
+      ],
+      "fr":[
+        
+      ]
+    }
+  },
+  "BI2":{
+    "lehrkraft":"(Bg)",
+    "stunden":{
+      "mo":[
+        
+      ],
+      "di":[
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Bi1"
+      ],
+      "mi":[
+        
+      ],
+      "do":[
+        null,
+        null,
+        "Bi1",
+        "Bi1"
+      ],
+      "fr":[
+        null,
+        null,
+        null,
+        null,
+        "Bi1",
+        "Bi1"
+      ]
+    }
+  },
+  "DE2":{
+    "lehrkraft":"(Sa)",
+    "stunden":{
+      "mo":[
+        
+      ],
+      "di":[
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "A006"
+      ],
+      "mi":[
+        
+      ],
+      "do":[
+        null,
+        null,
+        "A006",
+        "A006"
+      ],
+      "fr":[
+        null,
+        null,
+        null,
+        null,
+        "A006",
+        "A006"
+      ]
+    }
+  },
+  "EK1":{
+    "lehrkraft":"(Sg)",
+    "stunden":{
+      "mo":[
+        
+      ],
+      "di":[
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "B002"
+      ],
+      "mi":[
+        
+      ],
+      "do":[
+        null,
+        null,
+        "EK",
+        "EK"
+      ],
+      "fr":[
+        null,
+        null,
+        null,
+        null,
+        "EK",
+        "EK"
+      ]
+    }
+  },
+  "EN2":{
+    "lehrkraft":"(Hm)",
+    "stunden":{
+      "mo":[
+        
+      ],
+      "di":[
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "A108"
+      ],
+      "mi":[
+        
+      ],
+      "do":[
+        null,
+        null,
+        "MU1",
+        "MU1"
+      ],
+      "fr":[
+        null,
+        null,
+        null,
+        null,
+        "A108",
+        "A108"
+      ]
+    }
+  },
+  "MA2":{
+    "lehrkraft":"(Ab)",
+    "stunden":{
+      "mo":[
+        
+      ],
+      "di":[
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "A107"
+      ],
+      "mi":[
+        
+      ],
+      "do":[
+        null,
+        null,
+        "Ph1",
+        "Ph1"
+      ],
+      "fr":[
+        null,
+        null,
+        null,
+        null,
+        "A107",
+        "A107"
+      ]
+    }
+  },
+  "PW1":{
+    "lehrkraft":"(Li)",
+    "stunden":{
+      "mo":[
+        
+      ],
+      "di":[
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "PO-WI"
+      ],
+      "mi":[
+        
+      ],
+      "do":[
+        null,
+        null,
+        "PO-WI",
+        "PO-WI"
+      ],
+      "fr":[
+        null,
+        null,
+        null,
+        null,
+        "PO-WI",
+        "PO-WI"
+      ]
+    }
+  },
+  "de4":{
+    "lehrkraft":"(Ro)",
+    "stunden":{
+      "mo":[
+        
+      ],
+      "di":[
+        
+      ],
+      "mi":[
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "MU2"
+      ],
+      "do":[
+        
+      ],
+      "fr":[
+        null,
+        null,
+        "MU2",
+        "MU2"
+      ]
+    }
+  },
+  "ku2":{
+    "lehrkraft":"(Fil)",
+    "stunden":{
+      "mo":[
+        
+      ],
+      "di":[
+        
+      ],
+      "mi":[
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "KU2"
+      ],
+      "do":[
+        
+      ],
+      "fr":[
+        null,
+        null,
+        "KU2",
+        "KU2"
+      ]
+    }
+  },
+  "ph2":{
+    "lehrkraft":"(Smk)",
+    "stunden":{
+      "mo":[
+        
+      ],
+      "di":[
+        
+      ],
+      "mi":[
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Ph2"
+      ],
+      "do":[
+        
+      ],
+      "fr":[
+        null,
+        null,
+        "Ph1",
+        "Ph1"
+      ]
+    }
+  },
+  "pw2":{
+    "lehrkraft":"(Lau)",
+    "stunden":{
+      "mo":[
+        
+      ],
+      "di":[
+        
+      ],
+      "mi":[
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "A106"
+      ],
+      "do":[
+        
+      ],
+      "fr":[
+        null,
+        null,
+        "NW",
+        "NW"
+      ]
+    }
+  },
+  "re1":{
+    "lehrkraft":"(Som)",
+    "stunden":{
+      "mo":[
+        
+      ],
+      "di":[
+        
+      ],
+      "mi":[
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "A011"
+      ],
+      "do":[
+        
+      ],
+      "fr":[
+        null,
+        null,
+        "A011",
+        "A011"
+      ]
+    }
+  },
+  "sf1":{
+    "lehrkraft":"(Hb)",
+    "stunden":{
+      "mo":[
+        
+      ],
+      "di":[
+        
+      ],
+      "mi":[
+        null,
+        null,
+        null,
+        null,
+        "A206",
+        "A206"
+      ],
+      "do":[
+        
+      ],
+      "fr":[
+        
+      ]
+    }
+  },
+  "sf2":{
+    "lehrkraft":"(Bl)",
+    "stunden":{
+      "mo":[
+        
+      ],
+      "di":[
+        
+      ],
+      "mi":[
+        null,
+        null,
+        null,
+        null,
+        "A006",
+        "A006"
+      ],
+      "do":[
+        
+      ],
+      "fr":[
+        
+      ]
+    }
+  },
+  "sf3":{
+    "lehrkraft":"(Pz)",
+    "stunden":{
+      "mo":[
+        
+      ],
+      "di":[
+        
+      ],
+      "mi":[
+        null,
+        null,
+        null,
+        null,
+        "KU2",
+        "KU2"
+      ],
+      "do":[
+        
+      ],
+      "fr":[
+        
+      ]
+    }
+  },
+  "sf4":{
+    "lehrkraft":"(Smk)",
+    "stunden":{
+      "mo":[
+        
+      ],
+      "di":[
+        
+      ],
+      "mi":[
+        null,
+        null,
+        null,
+        null,
+        "NW",
+        "NW"
+      ],
+      "do":[
+        
+      ],
+      "fr":[
+        
+      ]
+    }
+  },
+  "sf5":{
+    "lehrkraft":"(Sbz)",
+    "stunden":{
+      "mo":[
+        
+      ],
+      "di":[
+        
+      ],
+      "mi":[
+        null,
+        null,
+        null,
+        null,
+        "C006",
+        "C006"
+      ],
+      "do":[
+        
+      ],
+      "fr":[
+        
+      ]
+    }
+  },
+  "sf6":{
+    "lehrkraft":"(Bra)",
+    "stunden":{
+      "mo":[
+        
+      ],
+      "di":[
+        
+      ],
+      "mi":[
+        null,
+        null,
+        null,
+        null,
+        "C008",
+        "C008"
+      ],
+      "do":[
+        
+      ],
+      "fr":[
+        
+      ]
+    }
+  },
+  "sp2":{
+    "lehrkraft":"(Hl)",
+    "stunden":{
+      "mo":[
+        
+      ],
+      "di":[
+        
+      ],
+      "mi":[
+        
+      ],
+      "do":[
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "SpoH",
+        "SpoH"
+      ],
+      "fr":[
+        
+      ]
+    }
+  },
+  "sp3":{
+    "lehrkraft":"(Hl)",
+    "stunden":{
+      "mo":[
+        
+      ],
+      "di":[
+        
+      ],
+      "mi":[
+        
+      ],
+      "do":[
+        
+      ],
+      "fr":[
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "SpoH",
+        "SpoH"
+      ]
+    }
+  },
+  "sp1":{
+    "lehrkraft":"(Sg)",
+    "stunden":{
+      "mo":[
+        
+      ],
+      "di":[
+        
+      ],
+      "mi":[
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "SpoH",
+        "SpoH"
+      ],
+      "do":[
+        
+      ],
+      "fr":[
+        
+      ]
+    }
+  }
+}

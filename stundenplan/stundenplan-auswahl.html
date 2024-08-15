@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Stundenplan-Generator</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="stundenplan-auswahl.css">
+		<script type="text/javascript" src="stundenplan-auswahl.js"></script>
+	</head>
+	<body onload="main()">
+		<form id="auswahl-container">
+			<h1>Stundenplan-Generator</h1>
+
+			<div class="container">
+				<fieldset id="fieldset-klasse">
+					<legend>Klasse</legend>
+
+					<select id="klasse-select" onchange="auswahlKlasse(this.value)">
+						<option value="Q1-2" selected>Q1-2</option>
+					</select>
+				</fieldset>
+			</div>
+
+			<div class="container">
+				<fieldset id="fieldset-a">
+					<legend>A</legend>
+
+					<div class="fach-container">
+						<select id="de-select" onchange="kursAuswaehlen('de', this.value)">
+							<option value="" selected>Deutsch</option>
+							<option disabled></option>
+						</select>
+						<input id="de-color" type="color" value="#eeeeee">
+					</div>
+					<div class="fach-container">
+						<select id="en-select" onchange="kursAuswaehlen('en', this.value)">
+							<option value="" selected>Englisch</option>
+							<option disabled></option>
+						</select>
+						<input id="en-color" type="color" value="#eeeeee">
+					</div>
+					<div class="fach-container">
+						<select id="fr-select" onchange="kursAuswaehlen('fr', this.value)">
+							<option value="" selected>Französisch</option>
+							<option disabled></option>
+						</select>
+						<input id="fr-color" type="color" value="#eeeeee">
+					</div>
+					<div class="fach-container">
+						<select id="la-select" onchange="kursAuswaehlen('la', this.value)">
+							<option value="" selected>Latein</option>
+							<option disabled></option>
+						</select>
+						<input id="la-color" type="color" value="#eeeeee">
+					</div>
+					<div class="fach-container">
+						<select id="sn-select" onchange="kursAuswaehlen('sn', this.value)">
+							<option value="" selected>Spanisch</option>
+							<option disabled></option>
+						</select>
+						<input id="sn-color" type="color" value="#eeeeee">
+					</div>
+
+					<br/>
+
+					<div class="fach-container">
+						<select id="ku-select" onchange="kursAuswaehlen('ku', this.value)">
+							<option value="" selected>Kunst</option>
+							<option disabled></option>
+						</select>
+						<input id="ku-color" type="color" value="#eeeeee">
+					</div>
+					<div class="fach-container">
+						<select id="mu-select" onchange="kursAuswaehlen('mu', this.value)">
+							<option value="" selected>Musik</option>
+							<option disabled></option>
+						</select>
+						<input id="mu-color" type="color" value="#eeeeee">
+					</div>
+					<div class="fach-container">
+						<select id="ds-select" onchange="kursAuswaehlen('ds', this.value)">
+							<option value="" selected>Darstellendes Spiel</option>
+							<option disabled></option>
+						</select>
+						<input id="ds-color" type="color" value="#eeeeee">
+					</div>
+				</fieldset>
+
+				<fieldset id="fieldset-b">
+					<legend>B</legend>
+
+					<div class="fach-container">
+						<select id="ge-select" onchange="kursAuswaehlen('ge', this.value)">
+							<option value="" selected>Geschichte</option>
+							<option disabled></option>
+						</select>
+						<input id="ge-color" type="color" value="#eeeeee">
+					</div>
+					<div class="fach-container">
+						<select id="ek-select" onchange="kursAuswaehlen('ek', this.value)">
+							<option value="" selected>Erdkunde</option>
+							<option disabled></option>
+						</select>
+						<input id="ek-color" type="color" value="#eeeeee">
+					</div>
+					<div class="fach-container">
+						<select id="pw-select" onchange="kursAuswaehlen('pw', this.value)">
+							<option value="" selected>Politik-Wirtschaft</option>
+							<option disabled></option>
+						</select>
+						<input id="pw-color" type="color" value="#eeeeee">
+					</div>
+					
+					<br/>
+
+					<div class="fach-container">
+						<select id="re-select" onchange="kursAuswaehlen('re', this.value)">
+							<option value="" selected>Religion</option>
+							<option disabled></option>
+						</select>
+						<input id="re-color" type="color" value="#eeeeee">
+					</div>
+					<div class="fach-container">
+						<select id="wn-select" onchange="kursAuswaehlen('wn', this.value)">
+							<option value="" selected>Werte und Normen</option>
+							<option disabled></option>
+						</select>
+						<input id="wn-color" type="color" value="#eeeeee">
+					</div>
+				</fieldset>
+
+				<fieldset id="fieldset-c">
+					<legend>C</legend>
+
+					<div class="fach-container">
+						<select id="ma-select" onchange="kursAuswaehlen('ma', this.value)">
+							<option value="" selected>Mathematik</option>
+							<option disabled></option>
+						</select>
+						<input id="ma-color" type="color" value="#eeeeee">
+					</div>
+					<div class="fach-container">
+						<select id="bi-select" onchange="kursAuswaehlen('bi', this.value)">
+							<option value="" selected>Biologie</option>
+							<option disabled></option>
+						</select>
+						<input id="bi-color" type="color" value="#eeeeee">
+					</div>
+					<div class="fach-container">
+						<select id="ch-select" onchange="kursAuswaehlen('ch', this.value)">
+							<option value="" selected>Chemie</option>
+							<option disabled></option>
+						</select>
+						<input id="ch-color" type="color" value="#eeeeee">
+					</div>
+					<div class="fach-container">
+						<select id="ph-select" onchange="kursAuswaehlen('ph', this.value)">
+							<option value="" selected>Physik</option>
+							<option disabled></option>
+						</select>
+						<input id="ph-color" type="color" value="#eeeeee">
+					</div>
+					<div class="fach-container">
+						<select id="if-select" onchange="kursAuswaehlen('if', this.value)">
+							<option value="" selected>Informatik</option>
+							<option disabled></option>
+						</select>
+						<input id="if-color" type="color" value="#eeeeee">
+					</div>
+				</fieldset>
+			</div>
+
+			<div class="container">
+				<fieldset id="fieldset-sf">
+					<legend>Seminarfach</legend>
+
+					<div class="fach-container">
+						<select id="sf-select">
+							<option value="" selected>Seminarfach</option>
+							<option disabled></option>
+						</select>
+						<input id="sf-color" type="color" value="#eeeeee">
+					</div>
+				</fieldset>
+
+				<fieldset id="fieldset-sp">
+					<legend>Sport</legend>
+
+					<div class="fach-container">
+						<select id="sp-select" onchange="kursAuswaehlen('sp', this.value)">
+							<option value="" selected>Sport</option>
+							<option disabled></option>
+						</select>
+						<input id="sp-color" type="color" value="#eeeeee">
+					</div>
+				</fieldset>
+			</div>
+
+			<div class="button-container">
+				<button id="generieren" type="button" onclick="stundenplanGenerieren()">Generieren</button>
+				<!--<button onclick="auswahlZuruecksetzen()">Zurücksetzen</button>-->
+			</div>
+		</form>
+	</body>
+</html>
